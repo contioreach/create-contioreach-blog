@@ -1,0 +1,47 @@
+{
+  "name": "create-contioreach-blog",
+  "version": "0.1.0",
+  "description": "Create a blog wired to ContioReach in one command. Pick Next.js, Nuxt, Astro, SvelteKit, Remix or React — it runs on demo content straight away, no signup needed.",
+  "license": "MIT",
+  "homepage": "https://contioreach.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contioreach/create-contioreach-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/contioreach/create-contioreach-blog/issues"
+  },
+  "type": "module",
+  "bin": {
+    "create-contioreach-blog": "bin/create-contioreach-blog.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "contioreach",
+    "headless-cms",
+    "blog",
+    "blog-starter",
+    "create",
+    "cli",
+    "nextjs",
+    "nuxt",
+    "astro",
+    "sveltekit",
+    "remix",
+    "react"
+  ],
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.8.1",
+    "picocolors": "^1.1.1",
+    "tar": "^7.5.22"
+  }
+}
