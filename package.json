@@ -6,7 +6,7 @@
   "homepage": "https://contioreach.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/contioreach/create-contioreach-blog.git"
+    "url": "git+https://github.com/contioreach/create-contioreach-blog.git"
   },
   "bugs": {
     "url": "https://github.com/contioreach/create-contioreach-blog/issues"
