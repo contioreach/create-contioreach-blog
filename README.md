@@ -1,6 +1,6 @@
 # create-contioreach-blog
 
-Create a blog wired to [ContioReach](https://contioreach.com) in one command. It runs on demo content straight away — no signup, no login, no questions about workspaces.
+Create a blog wired to [ContioReach](https://contioreach.com/?utm_source=npm&utm_medium=package_page&utm_campaign=create-contioreach-blog&utm_content=readme_intro_link&ref=npm) in one command. It runs on demo content straight away — no signup, no login, no questions about workspaces.
 
 ```bash
 npx create-contioreach-blog my-blog

@@ -1,9 +1,9 @@
 {
   "name": "create-contioreach-blog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a blog wired to ContioReach in one command. Pick Next.js, Nuxt, Astro, SvelteKit, Remix or React — it runs on demo content straight away, no signup needed.",
   "license": "MIT",
-  "homepage": "https://contioreach.com",
+  "homepage": "https://contioreach.com/?utm_source=npm&utm_medium=package_page&utm_campaign=create-contioreach-blog&utm_content=homepage_link&ref=npm",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/contioreach/create-contioreach-blog.git"
